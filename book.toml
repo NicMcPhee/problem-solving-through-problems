@@ -1,0 +1,7 @@
+[book]
+authors = ["Nic McPhee"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Problem Solving Through Problems"
+description = "An introduction to programming and problem solving, using the Racket programming language."
